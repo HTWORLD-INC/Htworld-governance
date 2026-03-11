@@ -1,4 +1,4 @@
-assets/htworld-logo.png
+! assets/htworld-logo.png
 
 ## Information technology consulting services
 
