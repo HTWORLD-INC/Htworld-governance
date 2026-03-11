@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 <p align="center">
     <img src="assets/htworld-logo.png" alt="HTWORLD" width="360">
 </p>
@@ -20,3 +25,4 @@ Email: benjamin.gregory@htworld.co
 Phone: 682-200-9489
 
 © HTWORLD
+<p><em>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %z" }}</em></p>
